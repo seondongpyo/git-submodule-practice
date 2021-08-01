@@ -1,0 +1,3 @@
+[submodule "git-submodule-private"]
+	path = git-submodule-private
+	url = https://github.com/seondongpyo/git-submodule-private.git
